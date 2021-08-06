@@ -1,3 +1,13 @@
+##Rutas de la app
+
+1. [http://localhost:3000](http://localhost:3000)
+2. [http://localhost:3000/productos](http://localhost:3000/productos)
+3. [http://localhost:3000/productos/query](http://localhost:3000/productos/notebooks)
+
+ejemplos: 
+http://localhost:3000/productos/notebooks
+http://localhost:3000/productos/zapatillas
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
