@@ -4,8 +4,10 @@
 2. [http://localhost:3000/productos](http://localhost:3000/productos)
 3. [http://localhost:3000/productos/query](http://localhost:3000/productos/notebooks)
 
-ejemplos: 
+ejemplos:
+<br>
 http://localhost:3000/productos/notebooks
+<br>
 http://localhost:3000/productos/zapatillas
 
 # Getting Started with Create React App
