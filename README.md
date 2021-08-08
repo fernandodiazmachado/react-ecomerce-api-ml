@@ -1,3 +1,8 @@
+## Deploy en Heroku
+HOME: [https://react-ecomerce-api-ml.herokuapp.com/](https://react-ecomerce-api-ml.herokuapp.com/)
+DEFAULT PRODUCTS: [https://react-ecomerce-api-ml.herokuapp.com/productos](https://react-ecomerce-api-ml.herokuapp.com/productos)
+EJ: SEARCH NOTEBOOKS: [https://react-ecomerce-api-ml.herokuapp.com/productos/NOTEBOOKS](https://react-ecomerce-api-ml.herokuapp.com/productos/NOTEBOOKS)
+
 ## Rutas de la app
 
 1. [http://localhost:3000](http://localhost:3000)
